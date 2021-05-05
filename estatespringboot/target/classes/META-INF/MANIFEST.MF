@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: estatespringboot
+Implementation-Version: 1.0
+Built-By: moita
+Implementation-Vendor-Id: com.laptrinhjavaweb
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/estatespringboot
+Created-By: Maven Integration for Eclipse
+
