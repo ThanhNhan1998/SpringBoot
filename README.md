@@ -2,3 +2,4 @@
 test
 changed
 pull
+checkout
